@@ -1,6 +1,8 @@
 elearning
 =========
-aplikasi elearning skripsi
-sistem pembelajaran elektronik
-ada scormnya lho
+
+aplikasi elearning skripsi mencoba untukberafiliasi dengan SCORM wrapper
+
+Development Mode
+
 
