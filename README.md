@@ -1,7 +1,7 @@
 elearning
 =========
 
-aplikasi elearning skripsi mencoba untukberafiliasi dengan SCORM wrapper
+aplikasi elearning skripsi mencoba untuk berafiliasi dengan SCORM wrapper
 
 Development Mode
 
